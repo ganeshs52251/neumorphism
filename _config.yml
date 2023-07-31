@@ -79,16 +79,22 @@ os_projects_title: Open Source Projects
 # show_contact_card:
 # > setting this to true, will display the Contact section
 # > setting this to false, will omit the Contact section                                  
-show_contact_card: false
+show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: go
+contact_title: Takeaways
 # contact_description: This will be displayed under the title.
-contact_description: abcd test 123
+contact_description: What I learned...how to work within a crossfunctional team
+                                      networking
+                                      company culture
+                                      potential career paths
+
+                    Most proud of helping compile data to better assist employees in their training to ServiceNow
+                                    ...and getting better at ping-pong🏓
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: ganeshs52251/neumorphism
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -102,7 +108,7 @@ projects:
     # forks:
     # > setting this to true, will exclude forked repositories
     # > setting this to false, will also display forked repositories
-    forks: true
+    forks: false
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
     # - repo1-to-be-excluded
