@@ -5,12 +5,11 @@
 # - name: Git
 #   weight: 5
 
-- name: Short term - learning more information about careers I am interested in
+- name: Info about careers
   weight: 5
 
-- name: Short term - working on various projects
+- name: Various Projects
   weight: 5
 
-- name: gain enough experience to get a job I love :)
+- name: ultimately gain enough experience to get a job I love :)
   weight: 4
-  
