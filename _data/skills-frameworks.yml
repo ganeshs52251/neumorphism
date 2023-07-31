@@ -6,9 +6,8 @@
 #   weight: 5
 #CAN I RENAME FRAMEWORK TO CAREER INTERESTS??? if not, then just put text in about me
 
-- name: An internship!
+- name: internship
   weight: 5
 
-- name: Conferences
+- name: conferences
   weight: 4
-  
