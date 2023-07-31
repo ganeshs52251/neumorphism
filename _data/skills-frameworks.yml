@@ -4,30 +4,11 @@
 # Example of a framework
 # - name: Framework
 #   weight: 5
+#CAN I RENAME FRAMEWORK TO CAREER INTERESTS??? if not, then just put text in about me
 
-- name: Angular
+- name: An internship!
   weight: 5
 
-- name: AngularJS
-  weight: 3
-
-- name: React
+- name: Conferences
   weight: 4
-
-- name: Node
-  weight: 1
-
-- name: Flutter
-  weight: 2
-
-- name: Express
-  weight: 3
-
-- name: Django
-  weight: 1
-
-- name: Spring
-  weight: 2
-
-- name: Rails
-  weight: 4
+  

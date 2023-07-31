@@ -5,32 +5,12 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
+- name: Short term - learning more information about careers I am interested in
   weight: 5
 
-- name: Bash
-  weight: 3
+- name: Short term - working on various projects
+  weight: 5
 
-- name: Scrum
-  weight: 3
-
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
-  weight: 2
-
-- name: npm
-  weight: 2
-
-- name: gulp
+- name: gain enough experience to get a job I love :)
   weight: 4
-
-- name: VS Code
-  weight: 3
-
-- name: Postman
-  weight: 4
+  
