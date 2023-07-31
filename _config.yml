@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: last day of yale internship :(
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -11,19 +11,19 @@ baseurl: "/neumorphism"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Sahana
+username: Sahana👩🏽‍💻
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Yale Final Presentation 2023
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: sahana.ganesh@uconn.edu
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
+github_username: ganeshs52251
 codepen_username: exampleUser
 dev_username: exampleUser
-linkedin_username: exampleUser
+linkedin_username: sahanaganeshh
 twitter_username: exampleUser
 
 # ABOUT ME SECTION
@@ -76,10 +76,10 @@ os_projects_title: Open Source Projects
 # CONTACT SECTION
 # show_contact_card:
 # > setting this to true, will display the Contact section
-# > setting this to false, will omit the Contact section
-show_contact_card: true
+# > setting this to false, will omit the Contact section                                  
+show_contact_card: false
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
+contact_title: go
 # contact_description: This will be displayed under the title.
 contact_description: abcd test 123
 
