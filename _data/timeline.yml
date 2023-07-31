@@ -17,41 +17,15 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Yale Center for Clinical Investigation
-  title-url: https://medicine.yale.edu/ycci/
-  date: Jun 2021 - Feb 2023
-  subtitle: YCCI Intern
-  tags:
-    - tag: RedCap
-  timeline-side: right
-
-- title: Connecticut Center for Entrepreneurship & Innovation (CCEI)
-  title-url: https://ccei.uconn.edu/
-  date: Nov 2022 - Mar 2023
-  subtitle: Contract of startup - SignAssist
-  tags:
-    - tag: Machine Learning
-    - tag: Artifical Intelligence
-    - tag: Business Strategy
-  timeline-side: right
-
-- title: National Institute for Undersea Vehicle Technology (NIUVT)
-  title-url: https://niuvt.us/
-  date: Nov 2022 - May 2023
-  subtitle: Part-time research assistant
-  timeline-side: left
-  tags: 
-    - tag: MatLab
-    - tag: Python
 
 - title: Yale ITS Intern!
   title-url: https://your.yale.edu/yale-link/its-helpdesk
   date: Jun 2023 - Present
-  subtitle: ITS Helpdesk Intern
+  subtitle: ITS Helpdesk Intern under Cynthia Welsh
   tags:
     - tag: Excel
     - tag: ServiceNow
     - tag: ITIL Certification
   timeline-side: right
 
-  
+
