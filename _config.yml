@@ -81,15 +81,12 @@ os_projects_title: Open Source Projects
 # > setting this to false, will omit the Contact section                                  
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: 🐶 Takeaways @ 🇾🇦🇱🇪
+contact_title: 🐶 ᴛᴀᴋᴇᴀᴡᴀʏꜱ ꜰʀᴏᴍ ʏᴀʟᴇ 🌱
 # contact_description: This will be displayed under the title.
-contact_description: What I learned...how to work within a crossfunctional team
-                                      networking
-                                      company culture
-                                      potential career paths.
+contact_description: Learned how to work within a crossfunctional team, network, the value of company culture, potential career paths, and more. 
 
-                    Most proud of helping compile data to better assist employees in their training to ServiceNow
-                                    ...and getting better at ping-pong🏓
+                    Most proud of learning various tools to compile data, documentation, and ways to present my work
+                                    ...(& ofc getting better at ping-pong🏓)
 
 # GITHUB-METADATA
 # Set this to your forked repository
