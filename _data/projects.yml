@@ -33,3 +33,23 @@
   tags:
     - tag: Canva
     - tag: KB Articles
+
+- name: Certification Process
+  descr: Gained certifications in ITIL, Canvas, IT Help Desk for Beginners, and SQL
+  demo:
+  tags:
+    - tag: Linkedin Learning
+
+
+- name: Platform Evaluation for Canvas Training
+  descr: Collaboratively assisted in the creation and organization of comprehensive notes to aid in choosing the most suitable training platform for future employees and interns
+  demo: https://docs.google.com/document/d/1MfYgaXZwdAwfBlS3x9CygMteik7Uri1h1ox2jiKvh9A/edit?usp=sharing
+  tags:
+    - tag: Research
+
+- name: Documentation for Future Interns
+  descr: Compiled summary notes from intern training to aid future interns in their knowledge of ITIL, service management, and ServiceNow
+  demo: https://drive.google.com/drive/folders/1-Z22mh1OZhomXpaXS9Uxprs86eevXtsK?usp=sharing
+  tags:
+    - tag: Research
+    - tag: Training

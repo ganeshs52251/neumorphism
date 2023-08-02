@@ -14,17 +14,17 @@ baseurl: "/neumorphism"
 username: Sahana👩🏽‍💻
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Yale Final  2023
+typing_text: Yale Final Presentation 2023
 # email: Your E-Mail address for the email button.
 email: sahana.ganesh@uconn.edu
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: ganeshs52251
-codepen_username: exampleUser
-dev_username: exampleUser
+codepen_username: 
+dev_username: 
 linkedin_username: sahanaganeshh
-twitter_username: exampleUser
+twitter_username: 
 
 # ABOUT ME SECTION
 # show_aboutme_card:
