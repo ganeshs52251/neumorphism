@@ -5,14 +5,14 @@
 # - name: Language
 #   weight: 5
 
-- name: Software Engineer
+- name: software engineer
   weight: 5
 
-- name: Data Scientist
+- name: data scientist
   weight: 4
 
-- name: Business Analyst
+- name: business analyst
   weight: 3
 
-- name: Consultant
+- name: consultant
   weight: 2

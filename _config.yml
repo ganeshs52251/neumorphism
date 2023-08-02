@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: last day of yale internship 
+title: last day of yale internship :(
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Rising sophomore at the University of Connecticut studying Computer Science 
+about_me_description: Rising sophomore at the University of Connecticut studying Computer Science with a double minor in Mathematics and Statistics
                   
                    
 
@@ -55,7 +55,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://www.dropbox.com/scl/fi/jm92b1h4jok8qz3s08uuk/Google-Resume-1.pdf?rlkey=dm0l14hdem8duwx60g8cc1dir&dl=0
 
 # PROJECTS SECTION
 # show_projects_card:
